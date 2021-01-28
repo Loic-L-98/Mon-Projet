@@ -2,4 +2,4 @@
 
 ## Intro
 
-what is my project
+Ce que fait mon projet
